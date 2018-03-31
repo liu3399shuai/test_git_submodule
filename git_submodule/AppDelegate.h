@@ -13,7 +13,7 @@
 // ok
 
 @property (strong, nonatomic) UIWindow *window;
-
+// sss
 
 @end
 
